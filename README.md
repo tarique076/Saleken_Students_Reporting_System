@@ -33,9 +33,9 @@ ElasticSearch required to be installed to run the application.
 <h2>Api Endpoints</h2>
 
 * http://localhost:8090/home       (HomePage)
-* http://localhost:8090/addStudent  (Add a Student)
-* http://localhost:8090/getClassPercentage    (Get percentage marks of whole class)
-* http://localhost:8090/subjectAvg   (Check average marks of a subject)
-* http://localhost:8090/topTwoStudents   (Check top two students.)
-* http://localhost:8090/getAllStudents    (Check all students details)
+* http://localhost:8090/addStudent  (Add a Student) (Post Method)
+* http://localhost:8090/getClassPercentage    (Get percentage marks of whole class) (Get Method)
+* http://localhost:8090/subjectAvg   (Check average marks of a subject) (Get Method)
+* http://localhost:8090/topTwoStudents   (Check top two students.) (Get Method)
+* http://localhost:8090/getAllStudents    (Check all students details) (Get Method)
 
