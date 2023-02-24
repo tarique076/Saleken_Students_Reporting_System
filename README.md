@@ -28,7 +28,7 @@ ElasticSearch required to be installed to run the application.
   Change cluste.name to student_reporting_system
   Change path.data to the path where application is present.
   
-  Start Elasticsearch. (Go to Elasticsearc\bin). 
+  Start Elasticsearch. (Go to Elasticsearch\bin). 
   Open cmd from here and type elasticsearch and press enter.
 
 ````
